@@ -15,9 +15,9 @@
 		margin: 0 0 1em 0;
 	}
 
-	img {
-		width: 100%;
-		max-width: 400px;
+	.avatar {
+		width: 200px;
+		height: 200px;
 		margin: 0 0 1em 0;
 	}
 
@@ -39,8 +39,7 @@
 <h1>Alexander Sivashev</h1>
 
 <figure>
-	<img alt='Alexander Sivashev' src='alexander-sivashev.jpg'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<img class="avatar" width="200" height="200" alt='Alexander Sivashev' src='alexander-sivashev.jpg'>
 </figure>
 
 <p>I'm frontend developer with 7 years experience in web and frontend. Now i'm at Yandex. Later - Sberbank and local telematic company</p>
