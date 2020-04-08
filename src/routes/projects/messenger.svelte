@@ -1,0 +1,3 @@
+<h1>Yandex Web Messenger</h1>
+<p>Сouple from last 3 years i'm develop Yandex Web Messenger and Business Chats https://yandex.com/chat in a partial distributed team. My main focus was on business messenger features, integrations and public API, product quality, development and testing infrastructure. For example i'm integrate Messenger to SERP with 70M DAU. Or build (in pair) tool for websockets read/write dumps in scenarios testing.</p>
+<p>Now Messenger is important part of Yandex services ecosystem and continue growing up.</p>
